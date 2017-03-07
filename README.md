@@ -1,2 +1,2 @@
 # snake
-console snake game
+Windows console snake game
